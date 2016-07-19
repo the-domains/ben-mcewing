@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T10:47:34.150Z'
+datePublished: '2016-07-19T10:47:34.218Z'
 sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
